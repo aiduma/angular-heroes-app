@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl: 'http://alberto-iduma/com'
+  baseUrl: 'https://aio-heroes-api.herokuapp.com'
 };
